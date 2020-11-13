@@ -1,0 +1,1 @@
+https://o7planning.org/ru/10865/simple-crud-example-with-spring-mvc-restful-web-service
